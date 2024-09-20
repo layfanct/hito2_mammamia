@@ -1,9 +1,9 @@
-/* Centrar el formulario de registro */
+
 .main-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 120px); /* Ajuste para no cubrir el navbar ni el footer */
+    height: calc(100vh - 120px); 
     margin-top: 60px;
     margin-bottom: 60px;
   }
